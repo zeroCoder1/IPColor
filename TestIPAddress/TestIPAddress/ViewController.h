@@ -8,7 +8,17 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController{
+    
+    
+    NSUInteger  an_Integer;
+    NSArray * ipItemsArray;
+    NSString *externalIP;
+    
+    //for internal ip
+    
+    NSString *addr;
+}
 
 @property (weak, nonatomic) IBOutlet UILabel *ipLabel;
 @property (weak, nonatomic) IBOutlet UIView *view1;
