@@ -19,7 +19,7 @@
 		39CC875D16D35CF60075ADE3 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 39CC875C16D35CF60075ADE3 /* ViewController.m */; };
 		39CC876016D35CF60075ADE3 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 39CC875E16D35CF60075ADE3 /* ViewController.xib */; };
 		39CC879216D397E90075ADE3 /* 10160nameplate.png in Resources */ = {isa = PBXBuildFile; fileRef = 39CC879116D397E90075ADE3 /* 10160nameplate.png */; };
-		83D376501AE4DB0100D81E03 /* iOS Simulator Screen Shot 20-Apr-2015 12.24.18 pm.png in Resources */ = {isa = PBXBuildFile; fileRef = 83D3764F1AE4DB0100D81E03 /* iOS Simulator Screen Shot 20-Apr-2015 12.24.18 pm.png */; };
+		83D376501AE4DB0100D81E03 /* screenshot.png in Resources */ = {isa = PBXBuildFile; fileRef = 83D3764F1AE4DB0100D81E03 /* screenshot.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,7 +40,7 @@
 		39CC875C16D35CF60075ADE3 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		39CC875F16D35CF60075ADE3 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
 		39CC879116D397E90075ADE3 /* 10160nameplate.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 10160nameplate.png; sourceTree = "<group>"; };
-		83D3764F1AE4DB0100D81E03 /* iOS Simulator Screen Shot 20-Apr-2015 12.24.18 pm.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iOS Simulator Screen Shot 20-Apr-2015 12.24.18 pm.png"; sourceTree = "<group>"; };
+		83D3764F1AE4DB0100D81E03 /* screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,7 +87,7 @@
 		39CC874916D35CF60075ADE3 /* TestIPAddress */ = {
 			isa = PBXGroup;
 			children = (
-				83D3764F1AE4DB0100D81E03 /* iOS Simulator Screen Shot 20-Apr-2015 12.24.18 pm.png */,
+				83D3764F1AE4DB0100D81E03 /* screenshot.png */,
 				39CC875216D35CF60075ADE3 /* AppDelegate.h */,
 				39CC875316D35CF60075ADE3 /* AppDelegate.m */,
 				39CC875B16D35CF60075ADE3 /* ViewController.h */,
@@ -166,7 +166,7 @@
 			files = (
 				39CC874E16D35CF60075ADE3 /* InfoPlist.strings in Resources */,
 				39CC875616D35CF60075ADE3 /* Default.png in Resources */,
-				83D376501AE4DB0100D81E03 /* iOS Simulator Screen Shot 20-Apr-2015 12.24.18 pm.png in Resources */,
+				83D376501AE4DB0100D81E03 /* screenshot.png in Resources */,
 				39CC875816D35CF60075ADE3 /* Default@2x.png in Resources */,
 				39CC875A16D35CF60075ADE3 /* Default-568h@2x.png in Resources */,
 				39CC876016D35CF60075ADE3 /* ViewController.xib in Resources */,
